@@ -10,34 +10,43 @@
 ### 🛠️ Tech Stack & Arsenal
 
 **Languages:**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-</p>
+
+| JavaScript | Python | C# |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" /> | <img src="https://skillicons.dev/icons?i=cs" alt="C#" /> |
+
+<br>
 
 **Backend & Frameworks:**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
-</p>
+
+| Node.js | Express.js | Django | .NET |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" alt="Express.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" alt="Django" />| <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /> |
+
+<br>
 
 **Databases:**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
 
-**Frontend & Core Skills:**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/OOP-%23000000.svg?style=for-the-badge&logo=sharp&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/Design_Patterns-%23000000.svg?style=for-the-badge&logo=codereview&logoColor=white" alt="Design Patterns" />
-</p>
+| MongoDB | PostgreSQL | SQLite |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" /> |
 
+<br>
+
+**Frontend:**
+
+| HTML5 | CSS3 | React |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" alt="HTML5" /> | <img src="https://skillicons.dev/icons?i=css" alt="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" /> |
+
+<br>
+
+**🧠 Core Engineering Skills:**
+
+| Object-Oriented (OOP) | Design Patterns | Clean Code | System Architecture |
+| :---: | :---: | :---: | :---: |
+
+---
 ---
 
 ### 🌱 Current Focus
@@ -50,8 +59,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[IT Asset Management System](https://github.com/Saif-ALdin-Tamer/IT-Asset-Management)** | A comprehensive system designed to track and manage company hardware. Built with a focus on clean logic and scalable database design. | Django, Python |
-| **[RouteIQ](https://github.com/Saif-ALdin-Tamer/RouteIQ-FullProject)** | A full-scale project focusing on robust route schema design and backend architecture. | JavaScript, Node.js |
+| **[IT Asset Management System](https://github.com/Saif-ALdin-Tamer/IT-Asset-Management)** | A comprehensive system designed to track and manage company hardware. Built with a focus on clean logic and scalable database design. | Django, SQLite, Python |
+| **[RouteIQ](https://github.com/Saif-ALdin-Tamer/RouteIQ-FullProject)** | A full-scale project focusing on robust route schema design and backend architecture. | .NET, C# |
 
 ---
 
