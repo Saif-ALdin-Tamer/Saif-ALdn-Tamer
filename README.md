@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack & 
 
 **Languages:**
 
@@ -76,6 +76,10 @@
 ---
 
 ### 📫 Let's Connect!
-*Want to talk about Clean Code, backend routing, or collaborate on a MERN project? Feel free to reach out!*
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](#) *linkedin.com/in/saif-aldin-tamer-4a06a52b4* [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:your.email@example.com) *saiftamer998@gmail.com*
+<a href="https://www.linkedin.com/in/saif-aldin-tamer-4a06a52b4/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30" height="30" />
+  </a>
